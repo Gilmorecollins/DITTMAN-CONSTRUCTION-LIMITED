@@ -22,10 +22,11 @@ To view this portfolio locally, follow these steps:
 
 Explore the different sections of the portfolio to learn more about me and my work. The main sections include:
 
-- **About Me:** A brief introduction to who I am and my background.
-- **Skills:** An overview of the technical skills I possess.
-- **Projects:** A showcase of some of the key projects I've worked on.
-- **Contact:** How to reach out to me for collaboration or inquiries.
+- **Home:** Home section.
+- **Abou:** Companies brief introduction.
+- **Services:** An overview of the technical services they provide.
+- **Projects:** A showcase of some of the key projects Done by the company.
+- **Contact:** How to reach out to the company for collaboration or inquiries.
 
 ## Projects
 
